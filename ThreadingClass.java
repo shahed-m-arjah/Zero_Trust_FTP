@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.netprogproj;
+package com.mycompany.trial_2;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -162,7 +162,7 @@ public class ThreadingClass extends Thread{
                 UPLOAD(currentUser, line, out, in);
                 return false;
             case "DOWNLOAD":
-                DOWNLOAD(currentUser, line, out);
+                DOWNLOAD(currentUser, line, out, in);
                 return false;
             case "DELETE":
                 DELETE(currentUser, line, out);
@@ -301,7 +301,7 @@ public class ThreadingClass extends Thread{
     Server.logEvent("COMMAND_LISTALL_SUCCESS", currentUser.getUsername(), "Successfully executed LISTALL.");
 }
     
-    private void DOWNLOAD(Server.User currentUser, String fullCommand, PrintWriter out) {
+    private void DOWNLOAD(Server.User currentUser, String fullCommand, PrintWriter out, BufferedReader in) {
         
         String[] parts = fullCommand.trim().split("\\s+");
         if (parts.length < 3) {
@@ -327,6 +327,9 @@ public class ThreadingClass extends Thread{
 
             out.println("200 SUCCESS: DOWNLOAD " + fileName + " " + targetFile.length());
             out.flush();
+            
+            String clientSignal = in.readLine(); 
+            if (clientSignal == null || !clientSignal.equals("START")) return;
 
             byte[] buffer = new byte[4096];
             int bytesRead;
@@ -335,11 +338,13 @@ public class ThreadingClass extends Thread{
                 socketOut.write(buffer, 0, bytesRead);
             }
             socketOut.flush();
-
+            
             Server.logEvent("COMMAND_DOWNLOAD_SUCCESS", username, "Downloaded file: " + targetFile.getName());
 
         } catch (IOException e) {
             out.println("500 ERROR: Server error during file transfer.");
+            out.println("END");
+            out.flush();
             Server.logEvent("COMMAND_DOWNLOAD_FAIL", username, "Server I/O error: " + e.getMessage());
         }
 }

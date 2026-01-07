@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.netprogproj;
+package com.mycompany.trial_2;
 
 
 /**
@@ -160,7 +160,7 @@ public class Client {
     private void readResponse() throws IOException {
     String line;
     while ((line = in.readLine()) != null) {
-        if (line.equals("END")) break;
+        if (line.equalsIgnoreCase("END")) break;
         System.out.println(line);
     }
 }
@@ -242,7 +242,11 @@ private void downloadFile(String Command) {
 
         // Command recieved from server:  "200 SUCCESS: DOWNLOAD file_name file_size"
         long fileSize = Long.parseLong(response.split(" ")[4]);
-
+        
+        // NEW: Tell server to start sending raw bytes NOW
+        out.println("START");
+        out.flush();
+        ///////
         String downloadDir = "C:\\Users\\C-ROAD\\Downloads\\";
         File localFile = new File(downloadDir + fileName);
         FileOutputStream fos = new FileOutputStream(localFile);
