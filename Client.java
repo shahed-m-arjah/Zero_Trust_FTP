@@ -243,10 +243,8 @@ private void downloadFile(String Command) {
         // Command recieved from server:  "200 SUCCESS: DOWNLOAD file_name file_size"
         long fileSize = Long.parseLong(response.split(" ")[4]);
         
-        // NEW: Tell server to start sending raw bytes NOW
         out.println("START");
         out.flush();
-        ///////
         String downloadDir = "C:\\Users\\C-ROAD\\Downloads\\";
         File localFile = new File(downloadDir + fileName);
         FileOutputStream fos = new FileOutputStream(localFile);
