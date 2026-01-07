@@ -1,0 +1,482 @@
+[2025-12-24T04:16:35.175833] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T04:17:01.624743700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: eaf137b6-b636-4d19-ba2b-5027382d2a64
+[2025-12-24T04:17:09.775592200] [user1] [COMMAND_LIST_FAIL] Directory not found for LIST: user1
+[2025-12-24T04:18:53.139982100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 19a18150-cea8-4bde-9135-13a5c878731f
+[2025-12-24T04:18:56.173359] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:19:24.463191100] [user1] [COMMAND_UPLOAD_FAIL] Format error.
+[2025-12-24T04:22:20.318079700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 800fda83-905b-497a-a57f-2f904d4dd986
+[2025-12-24T04:22:26.038433500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:22:55.822721800] [user1] [COMMAND_UPLOAD_FAIL] Format error.
+[2025-12-24T04:34:43.372293500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: f18e931b-abe5-45a9-a890-abbef23f7770
+[2025-12-24T04:39:06.753878200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 82bb089e-6bc9-447d-8589-030f20fe30fb
+[2025-12-24T04:39:48.617064900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:41:43.422631400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: ad478188-ce64-4dea-a5de-3b744fe95273
+[2025-12-24T04:43:21.929862800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: a233937e-c3b8-4f27-9a1f-cc2b9c041b01
+[2025-12-24T04:43:55.977941700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: c0d97645-cf1e-4795-840f-46e22a8c8025
+[2025-12-24T04:44:30.585306100] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-24T04:48:24.119582200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 9f93cf01-a858-469a-8fc0-27c24372ca94
+[2025-12-24T04:50:44.656671800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:56:44.316526900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 15a75534-29a1-45fd-a0a4-f503d9e14a95
+[2025-12-24T04:57:28.325560600] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (2 bytes) to user1
+[2025-12-24T04:57:34.045016800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:58:26.977909100] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\hi.txt
+[2025-12-24T04:58:30.596170200] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T04:58:57.553551700] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (2 bytes) to user1
+[2025-12-24T04:59:07.918078] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: hi.txt
+[2025-12-24T05:02:49.138997400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: e5a281e7-9dee-4373-b222-a78b4e466d62
+[2025-12-24T05:02:56.388887400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:03:03.038709400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: hi.txt
+[2025-12-24T05:10:12.856793800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 5a125018-e395-4677-a437-c5730c7863fe
+[2025-12-24T05:10:15.588723900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:10:23.542233600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: hi.txt
+[2025-12-24T05:10:43.859741200] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-24T05:10:53.712083300] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:12:13.135925300] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:29:35.362998700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 4e283f7d-ce01-43e3-a476-717b9dee97fd
+[2025-12-24T05:29:38.083459600] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:29:45.126488300] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-24T05:29:57.726478600] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:30:03.051054300] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:30:07.175233200] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:33:30.165444700] [user1] [LOGIN_LOCKED] Attempt on already locked account.
+[2025-12-24T05:34:39.715088300] [user1] [LOGIN_LOCKED] Attempt on already locked account.
+[2025-12-24T05:34:55.630057500] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:34:58.741195100] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:35:10.710270600] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:35:39.166648400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 201dd87d-84ae-4697-84a9-4a38cc63e4db
+[2025-12-24T05:36:15.406194] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:36:37.018109800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 709766f4-34c7-42f4-8ff5-2844ae275723
+[2025-12-24T05:45:31.346670400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 46a1cbc3-f840-43e4-aba9-6b7e4abbf4f6
+[2025-12-24T05:45:34.391335300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:45:37.511792] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-24T05:45:48.698685700] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:45:59.867436400] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:46:08.127507300] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T05:46:21.873876900] [admin] [LOGIN_LOCKED] Attempt on already locked account.
+[2025-12-24T05:46:40.010225900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: c594241b-6a74-4c7c-8473-4582929064a3
+[2025-12-24T05:46:48.453037900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:48:17.607949400] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Server.txt (4464 bytes) to user1
+[2025-12-24T05:48:21.919076100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-24T05:49:33.781004700] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-24T05:52:00.022614700] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 9e4fb982-e265-4c4b-a6cf-795be8dd6f6b
+[2025-12-24T05:52:05.877986200] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-24T05:52:13.322751400] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-24T15:24:36.432177500] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T15:24:41.294524900] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-24T15:24:45.419368700] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T17:25:32.326238100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 34f7efe4-8e6e-4937-8347-2c135303b4ac
+[2025-12-28T17:25:38.752703300] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T17:33:03.333545900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 3f55ba1a-942b-4b4c-abd9-31da5bab7f82
+[2025-12-28T17:33:06.344362600] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T17:40:20.438875200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 1cff1404-e57a-4a5e-ae96-e68403b492d5
+[2025-12-28T17:40:23.416875500] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T17:40:37.740185500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T17:40:43.367292900] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: hi
+[2025-12-28T17:41:13.825993400] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T17:41:27.413856100] [admin] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T17:41:37.169960] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 371c0f71-a9f9-4e80-8df1-7372148e8c31
+[2025-12-28T17:41:40.696114300] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T17:42:23.201349700] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded Server.java (6931 bytes) to admin
+[2025-12-28T17:42:28.098107700] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T17:42:31.518697300] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T17:43:05.506029500] [admin] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\hi.txt
+[2025-12-28T17:43:11.737623400] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T17:44:35.040708200] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (27 bytes) to admin
+[2025-12-28T17:44:38.864495300] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T17:44:58.317645400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 4a63d5e2-e159-491f-a13e-1ebee1437b83
+[2025-12-28T17:45:02.534259900] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T17:45:44.922603700] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\hi.txt
+[2025-12-28T17:48:20.402443600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 4e9bfea0-95de-479f-8469-5b98d3e23a34
+[2025-12-28T17:48:28.529606100] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T17:48:32.253115500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T17:49:00.503686900] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\hi.txt
+[2025-12-28T17:49:26.967186500] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\..\admin\hi.txt
+[2025-12-28T17:49:56.961370400] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: ..\admin\hi.txt
+[2025-12-28T17:55:12.437284100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: server.java
+[2025-12-28T17:56:04.106307] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\Server.java
+[2025-12-28T18:10:09.183772600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 78344245-1a4d-4096-8811-3bd17f1351a3
+[2025-12-28T18:10:11.837376400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T18:10:14.973096300] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T18:11:21.910810300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Server.txt
+[2025-12-28T18:11:31.756231300] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Server
+[2025-12-28T18:11:41.922813700] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Server.java
+[2025-12-28T18:12:18.261198800] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\Server.java
+[2025-12-28T18:12:45.720555900] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: ..\admin\Server.java
+[2025-12-28T18:15:10.198725] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Server.java
+[2025-12-28T18:15:29.520100200] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\Server.java
+[2025-12-28T18:18:29.208988200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 6779d491-f106-4fba-87d2-11e37e570106
+[2025-12-28T18:18:33.048881800] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T18:18:42.605674100] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 6c769745-7880-48fd-b272-66f201f9478b
+[2025-12-28T18:18:45.025043900] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T18:18:49.200587500] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T18:18:55.554189700] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T18:19:02.710308300] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T18:19:22.856679500] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Server.txt
+[2025-12-28T18:25:25.378706200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: ab8600ea-588a-46aa-a93b-6278ea8694e2
+[2025-12-28T18:25:27.325600100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T18:25:35.805254400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Server.txt
+[2025-12-28T18:37:07.356977900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 368654c7-8cc7-4793-ad78-798f964ff8b5
+[2025-12-28T18:37:10.612151500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T18:37:13.636157] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T18:37:21.913318300] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Server
+[2025-12-28T18:37:29.886998700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Server.txt
+[2025-12-28T18:37:50.451253900] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Server.java
+[2025-12-28T18:38:05.575732300] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Server.java
+[2025-12-28T18:39:31.162403200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: c310cfa6-e741-43f3-806c-89be3211c760
+[2025-12-28T18:41:44.752243600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 25435548-ef02-4449-bfb9-48c29a1beb78
+[2025-12-28T18:41:47.668599600] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T18:42:21.031022200] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T18:42:49.455065] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\Server.java
+[2025-12-28T18:43:26.822914500] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (27 bytes) to user1
+[2025-12-28T18:43:30.435836200] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T18:43:41.119246700] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T18:44:01.625169] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 09238ec4-d89a-4b97-b6d6-5cf29c238a74
+[2025-12-28T18:44:04.948660600] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T18:44:08.279706600] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T18:44:16.752316500] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Server.txt
+[2025-12-28T18:44:42.161905100] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (27 bytes) to admin
+[2025-12-28T18:44:45.678871500] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T18:44:57.662114600] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T18:45:11.061777700] [admin] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\hi.txt
+[2025-12-28T18:45:13.977517800] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T18:45:25.969627800] [admin] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\Server.txt
+[2025-12-28T18:45:30.192975300] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T18:45:45.586776200] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T19:06:53.933769400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 06344240-5630-4022-9021-6818b8789304
+[2025-12-28T19:06:56.067654200] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T19:07:00.517586800] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T19:07:07.780434800] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T19:07:17.163530300] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 1c4c4397-2547-48d6-a3cf-c7f7052d4359
+[2025-12-28T19:07:19.381138800] [admin] [COMMAND_LIST_SUCCESS] Successfully listed directory: admin
+[2025-12-28T19:07:22.204581600] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T19:07:26.140794700] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T21:34:34.781616800] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:35:29.039646500] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:35:34.559896400] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:36:25.002048300] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:36:32.170296] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:36:41.226469] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2025-12-28T21:49:09.303245200] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 9c220971-ec0f-4a58-9188-9b1ac912af2d
+[2025-12-28T21:49:12.481060600] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T21:54:22.098646100] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 56006bfb-a81e-47ea-bd06-041e6e6e3220
+[2025-12-28T21:54:29.219568900] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T21:55:43.967915200] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 9ed104b5-e9f0-4e0b-a4e7-86da846c4fc4
+[2025-12-28T21:55:47.586233700] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2025-12-28T21:56:15.448852200] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: hi.txt
+[2025-12-28T21:56:23.188918] [admin] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\hi.txt
+[2025-12-28T22:02:08.078882500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: acf78a5c-cc55-46c6-a036-be48561dafb0
+[2025-12-28T22:02:10.688529400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:02:23.882134200] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: \test\Test.txt
+[2025-12-28T22:03:03.936295600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 629e907b-40fb-4bbd-a609-68dd11788a74
+[2025-12-28T22:03:10.870568200] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:03:13.287166400] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: \test\Test.txt
+[2025-12-28T22:03:16.622334100] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T22:04:43.189599100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: eed3d8b0-2b7c-4e63-8567-671b7d0fc891
+[2025-12-28T22:04:45.999162100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:05:00.784800900] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: \test\Test.txt
+[2025-12-28T22:05:22.405063100] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\test\Test.txt
+[2025-12-28T22:05:38.416892500] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: ..\test\Test.txt
+[2025-12-28T22:05:55.718388600] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T22:06:47.804472900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 156c177f-3f88-4d50-81de-a31391821d6d
+[2025-12-28T22:06:54.944224100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:07:07.824823] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: user.txt
+[2025-12-28T22:07:45.637475] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T22:21:05.462105200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 108590c6-aba2-4ba3-b341-764473828de7
+[2025-12-28T22:21:24.786212600] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2025-12-28T22:29:24.980389900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 777d7472-0a5b-48b2-97e2-c03b4bfda73d
+[2025-12-28T22:29:27.347497100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:29:30.467128500] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-28T22:29:42.143941800] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: User.txt
+[2025-12-28T22:29:47.876038700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:29:55.824856500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2025-12-28T22:30:40.000521700] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Admin.txt (0 bytes) to user1
+[2025-12-28T22:30:43.207623500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-28T22:30:49.749547900] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\Admin.txt
+[2025-12-28T22:31:10.655541] [user1] [ZT_FAILED] Invalid session key received. Strike 1
+[2025-12-28T22:31:21.616474300] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-28T22:37:49.036070800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: beb8c56a-268e-44ad-a38b-f47b86dd56ea
+[2025-12-28T22:37:52.364954100] [user1] [ZT_FAILED] Invalid session key received. Strike 1
+[2025-12-28T22:38:00.921790] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2025-12-31T12:21:52.492725600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 1b7e1326-2e97-4670-a0fe-9879ab7833b8
+[2025-12-31T12:22:00.698025] [user1] [ZT_FAILED] Invalid session key received. Strike 1
+[2025-12-31T12:22:13.775954700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2025-12-31T12:23:12.451152100] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2025-12-31T12:23:21.100063600] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: Admin.txt
+[2025-12-31T12:23:41.114017800] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-06T16:50:31.355301200] [test] [LOGIN_SUCCESS] Authentication successful. Key: 885b2479-4d3c-4aba-b8ca-333fb3ec30d2
+[2026-01-06T16:50:37.701935] [test] [ZT_FAILED] Invalid session key received. Strike 1
+[2026-01-06T16:51:49.718695700] [test] [COMMAND_LIST_SUCCESS] Successfully listed directory: test
+[2026-01-06T16:51:53.934947300] [test] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-06T17:52:54.829952300] [test] [COMMAND_UPLOAD_SUCCESS] Uploaded Server.java (5369 bytes) to test
+[2026-01-06T17:53:04.714433500] [test] [COMMAND_LIST_SUCCESS] Successfully listed directory: test
+[2026-01-06T17:53:11.054473300] [test] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\test\Server.java
+[2026-01-06T17:53:13.772332800] [test] [COMMAND_LIST_SUCCESS] Successfully listed directory: test
+[2026-01-06T17:56:19.505439200] [test] [ZT_FAILED] Invalid session key received. Strike 1
+[2026-01-06T17:58:21.215854200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: cc83e334-0d62-4691-aa13-a33c9fb511d6
+[2026-01-06T17:58:25.654126600] [user1] [ZT_FAILED] Invalid session key received. Strike 1
+[2026-01-06T18:09:01.990243700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 716349a4-f933-412d-8cb4-33c5b9333114
+[2026-01-06T18:09:57.718946] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-06T18:11:21.560727700] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\admin\Admin.txt
+[2026-01-06T18:50:40.486270900] [user1] [ZT_FAILED] Invalid session key received. Strike 1
+[2026-01-06T18:50:54.850064] [user1] [ZT_FAILED] Invalid session key received. Strike 2
+[2026-01-06T18:51:13.613383200] [user1] [ZT_TERMINATED] Connection forcibly closed after 3 failed session key attempts.
+[2026-01-06T18:59:20.732528200] [user1] [LOGIN_LOCKED] Attempt on already locked account.
+[2026-01-06T19:00:18.381428900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 33ea9be5-2419-4469-8aa7-a771e98b10a9
+[2026-01-06T19:00:23.110485200] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-06T19:01:19.501676300] [admin] [LOGIN_SUCCESS] Authentication successful. Key: e59f8ee1-ff1d-4a73-bae5-1af9d7d6f0a3
+[2026-01-06T19:01:24.132260100] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2026-01-06T19:02:02.741810] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-06T20:52:44.086202600] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2026-01-06T20:53:30.145745] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2026-01-06T20:53:34.567201200] [test] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2026-01-06T20:53:57.512816400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: d76f24f3-3ee8-40ba-8be8-86dc0c42ed3c
+[2026-01-06T20:54:12.892931100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T20:55:28.800420300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 5e6d9aa0-f2d0-434a-ad86-7ed313f7493b
+[2026-01-06T20:55:36.954986500] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded ResultFile.pdf (1026808 bytes) to user1
+[2026-01-06T20:58:32.452678900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: d62854ee-2af8-4f68-afb9-d64f12c703e0
+[2026-01-06T21:00:03.777291800] [user1] [LOGIN_FAILED] Authentication failed. Invalid password.
+[2026-01-06T21:00:23.730157600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: a448545e-6cd9-45aa-beeb-32a68f1258f6
+[2026-01-06T21:01:01.049002900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:01:29.799169800] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\ResultFile.pdf
+[2026-01-06T21:02:11.058964800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:03:07.790314] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-06T21:03:32.707016] [admin] [LOGIN_SUCCESS] Authentication successful. Key: f79d259f-ed9c-4a93-ac10-7678b9ae4207
+[2026-01-06T21:03:35.731996800] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2026-01-06T21:03:52.370211700] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Test.txt
+[2026-01-06T21:04:04.359033600] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Admin.txt
+[2026-01-06T21:05:01.769417500] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded hi.txt (27 bytes) to admin
+[2026-01-06T21:05:15.475239600] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: hi.txt
+[2026-01-06T21:06:41.058398700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: deeffa11-cf47-46cd-857e-bc46b00ab2fe
+[2026-01-06T21:06:43.885851700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:06:51.141496900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:13:49.386823100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 94a1fb8f-5d97-4257-9425-cea084dd2eaa
+[2026-01-06T21:13:51.704145400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:14:04.078946900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:14:57.018001900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:19:13.267117300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: c31f9a2e-2203-4070-a72a-b96e839d554e
+[2026-01-06T21:20:16.875169200] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Trial.txt (2379 bytes) to user1
+[2026-01-06T21:30:47.901273600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 15791985-ef8a-463d-a80c-773cba092ae2
+[2026-01-06T21:30:49.846151700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:31:11.870358800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:39:20.158455700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: d4458fc5-0b78-4c5f-a8e6-a448bfd9385e
+[2026-01-06T21:39:22.596648100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:39:29.356400800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Trial.txt
+[2026-01-06T21:39:57.711341100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:42:10.052225300] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded ResultFile.pdf (1026808 bytes) to user1
+[2026-01-06T21:43:06.325377] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:43:18.511709800] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\Trial.txt
+[2026-01-06T21:43:27.367119400] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-06T21:44:24.685672100] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: User1.txt4
+[2026-01-06T21:44:33.400647100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:44:43.864396400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:45:03.531436500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:45:11.794518100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:45:26.748879800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:48:52.951469200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 37be0e22-88c2-4d2f-96cd-07787737d53a
+[2026-01-06T21:48:56.688182500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T21:49:09.507045200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T21:50:55.292832800] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-06T22:45:16.285923400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: bcfb7ef9-3940-489f-947e-1314c61c6e99
+[2026-01-06T22:45:48.167605] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ....\\admin\Admin.txt
+[2026-01-06T22:46:08.157420200] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ....\admin\Admin.txt
+[2026-01-06T22:46:16.840901100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T22:46:55.640135300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:47:02.117426400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T22:47:24.905933600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:47:50.346108400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 336b3a4e-a803-43f1-8916-e0175f4e8f8c
+[2026-01-06T22:48:00.533719100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:48:09.111801400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:48:29.007595700] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-06T22:48:45.120746800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:53:25.494653200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: aa28d680-85c1-410b-8058-108c778e9623
+[2026-01-06T22:53:28.104902] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-06T22:53:36.513902100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-06T22:54:08.447262300] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-06T22:54:16.920932700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T01:25:58.414829200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 9f7eacf0-ab66-4b67-921b-ef1ada4ee4a8
+[2026-01-07T01:26:03.674788100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T01:26:13.743754900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T01:33:59.257827900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: e6e57968-eb64-4cf7-bfce-dd658a3bf267
+[2026-01-07T01:34:08.521259700] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T01:43:12.741954200] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: u
+[2026-01-07T01:53:02.114865900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 7d2775aa-a7ec-4f1f-a244-a037757530cd
+[2026-01-07T01:53:04.080646] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T01:53:10.430812700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T01:53:54.276009] [user1] [LOGIN_SUCCESS] Authentication successful. Key: a67a397a-3a48-4026-9dac-f29a367bfdc6
+[2026-01-07T01:53:56.483353800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T01:53:59.921207400] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: user
+[2026-01-07T02:02:01.577351200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: c97e2692-75af-407c-b995-ba581c6a06fb
+[2026-01-07T02:02:03.813733] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:02:09.653080200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:04:57.944938400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 86d1b9cc-12fe-4d54-a105-6398fa7927b3
+[2026-01-07T02:05:00.583352] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:05:06.526690600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:06:03.219990400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 15c4f9f5-a8c4-4544-acb4-5248093452f3
+[2026-01-07T02:06:05.256788800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:06:12.515623500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:06:33.131196500] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T02:06:40.976048900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:06:56.979153] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T02:09:00.625414400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: b1be9227-6326-4024-80a8-b82766163d46
+[2026-01-07T02:09:07.892973400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:14:30.300786600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 6d63ce2f-2e44-4008-968e-52285bd95da9
+[2026-01-07T02:14:32.445289800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:14:43.119507900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded: User1.txt
+[2026-01-07T02:15:13.713505400] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded Successfully.txt to user1
+[2026-01-07T02:15:20.342320900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:15:39.766149600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded: User1.txt
+[2026-01-07T02:16:09.284094700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 48954aa3-533e-4e96-9bf0-37baf4b90ef4
+[2026-01-07T02:16:12.301984300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:16:33.336673200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded: Uploaded Successfully.txt
+[2026-01-07T02:16:40.378754800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded: User1.txt
+[2026-01-07T02:20:26.676650] [user1] [LOGIN_SUCCESS] Authentication successful. Key: d8381df6-58b1-4b16-8547-70cad07b13ea
+[2026-01-07T02:20:28.806973100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:20:47.740453600] [user1] [COMMAND_DOWNLOAD_SUCCESS] File: User1.txt
+[2026-01-07T02:21:04.141076600] [user1] [COMMAND_DOWNLOAD_SUCCESS] File: Uploaded Successfully.txt
+[2026-01-07T02:22:12.633352100] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded Successfully.txt to user1
+[2026-01-07T02:22:17.760725400] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-07T02:35:24.079402500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 9a58597b-7904-4409-8fb5-927944ad8fa8
+[2026-01-07T02:35:25.983492700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:35:50.832823400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T02:37:35.206264500] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Uploaded
+[2026-01-07T02:37:48.086946400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:37:57.244022600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:41:16.317536400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 9ea651d1-4c0a-4183-91f3-43955e14106f
+[2026-01-07T02:41:18.336559800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:41:26.175582] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:44:57.957195500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: b83f683d-83c9-431d-898c-eed234982553
+[2026-01-07T02:45:02.395094500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:45:13.271490500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:45:32.218963600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:47:04.286955400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 39fc47a8-7aee-4596-839d-46d001cb0fe6
+[2026-01-07T02:47:06.197199900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:47:11.627185700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:47:40.327768800] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T02:47:59.425161] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:48:03.345940100] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-07T02:48:13.802611800] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-07T02:48:25.875398500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:48:31.204559600] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:48:44.680987300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T02:49:53.325779500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 0c6a351e-8226-4be3-8f49-e7f898118d7e
+[2026-01-07T02:49:55.261560400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:50:03.811511800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:50:55.926002700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 40fccc48-9ffa-4188-b5f4-5245b3e4f3f4
+[2026-01-07T02:50:59.139783900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:51:04.376229100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:51:26.110479100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T02:56:59.928971400] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 43270c70-40a1-4c5e-98aa-2cfd29d4e4e7
+[2026-01-07T02:57:02.063636400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T02:57:08.303422400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:58:56.795777700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 210a0a01-d397-45d1-a3f9-c79307da3a94
+[2026-01-07T02:59:02.678890200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T02:59:21.546641200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 33ec7eb6-5ea0-436b-a036-3768b738466f
+[2026-01-07T02:59:23.757448700] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-07T03:01:54.479070500] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 59b14320-4e50-4044-922a-a1c920c2e990
+[2026-01-07T03:01:57.209611400] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:02:20.980610] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:05:00.116653200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 4449318b-cb43-4dd0-bf87-0962317240ea
+[2026-01-07T03:05:02.239022700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:05:24.618259100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:08:46.981704300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 9fdcd921-0cd6-4b97-9924-a979a819a032
+[2026-01-07T03:08:48.614075100] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:08:54.547620] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:08:58.166387900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:10:07.082658500] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T03:10:18.745717100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:11:18.032390800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: e946f449-77e7-4391-bb55-373cf6c4676e
+[2026-01-07T03:11:19.967346900] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:12:08.466455400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:13:00.917169100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: ac79e032-14ea-4f26-abb9-c410df3b9282
+[2026-01-07T03:13:02.823708300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:13:08.966794] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: user
+[2026-01-07T03:13:15.298174300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:13:48.884766200] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-07T03:13:57.581116800] [user1] [LOGIN_SUCCESS] Authentication successful. Key: fc9344b3-e287-4b3e-87bf-9f49fa4626ad
+[2026-01-07T03:14:08.136813300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:14:29.652891700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:14:40.611577100] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-07T03:14:42.725115800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:14:55.690131400] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-07T03:15:09.662481] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:15:18.611669800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:16:15.693543700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 0b022d65-a157-4563-924a-d847ff811f13
+[2026-01-07T03:16:17.606028800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:16:30.589648300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:16:50.040552300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 38b7743d-616c-40c9-9f95-22548f2504ee
+[2026-01-07T03:16:52.043342300] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-07T03:17:00.893886900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 7b0055e2-aebf-4183-8cf3-793e248f8d20
+[2026-01-07T03:17:03.202344800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:17:19.399862300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:18:43.340070] [user1] [SESSION_LOGOUT] User logged out successfully. Connection closing.
+[2026-01-07T03:18:52.612182300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 35b515c6-a465-4eca-9fa9-67e65ab9d084
+[2026-01-07T03:18:54.419727800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:19:02.563713100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:19:14.539447400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:19:30.621614] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:19:57.816835700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 1417ef63-c2a4-4f35-a0b1-a41bacf3a4f0
+[2026-01-07T03:19:59.847150500] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:20:11.518821200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:20:22.087283700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: f75f4886-e086-46f5-8104-73ad388aaa25
+[2026-01-07T03:20:27.314941900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:20:36.469280400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:20:42.998513900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:21:44.619556900] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 0c63260a-c4c2-4bc4-8922-8e87d5c89159
+[2026-01-07T03:21:46.323999300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:21:54.381333400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:22:00.523188900] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:22:30.235677100] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 4c88db07-e792-4c6d-ba50-ef73a05d7a98
+[2026-01-07T03:22:32.143756800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:22:39.593156500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:22:57.001622200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:23:56.705762200] [user1] [LOGIN_SUCCESS] Authentication successful. Key: b6bd9952-efa7-4bd0-a53c-c6b4815140a9
+[2026-01-07T03:23:58.709380600] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:24:06.558540500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:24:14.904582500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:24:28.880225600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:24:50.294243800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:24:55.519559300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:25:27.145238600] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 1f7197a8-51c7-4048-a892-d06cb3e29d54
+[2026-01-07T03:25:28.848982] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:25:50.492211100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:27:11.472264400] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully_2.txt (46 bytes) to user1
+[2026-01-07T03:27:28.755316400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully_2.txt
+[2026-01-07T03:40:51.129634700] [user1] [LOGIN_SUCCESS] Authentication successful. Key: f9a3f09b-e1c2-4877-9483-39482db21d3e
+[2026-01-07T03:40:52.762339700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:40:57.692902100] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:41:12.774532200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully_2.txt
+[2026-01-07T03:41:17.501147400] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully_2.txt
+[2026-01-07T03:41:23.340677700] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully_2.txt
+[2026-01-07T03:41:27.959839300] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully_2.txt
+[2026-01-07T03:41:45.765062] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:42:09.985860200] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: Uploaded
+[2026-01-07T03:42:21.354857500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:42:46.105703200] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T03:42:56.659126] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T03:42:59.171754800] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:43:02.385846800] [user1] [COMMAND_LISTALL_AUTH_FAIL] Attempted unauthorized LISTALL.
+[2026-01-07T03:43:16.450204400] [user1] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\admin\Admin.txt
+[2026-01-07T03:44:50.491921500] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\Downloads\Uploaded_Successfully_2.txt
+[2026-01-07T03:44:55.615155300] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:45:12.404418800] [user1] [COMMAND_DELETE_FAIL] File not found or forbidden: C:\Users\C-ROAD\Downloads\Uploaded_Successfully_2.txt
+[2026-01-07T03:45:23.569890] [user1] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\user1\Uploaded_Successfully_2.txt
+[2026-01-07T03:45:37.440463700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:47:00.600850300] [user1] [LOGIN_SUCCESS] Authentication successful. Key: 44f833ec-fd9b-41df-9936-44fd4e3d55ed
+[2026-01-07T03:47:02.409268700] [user1] [COMMAND_LIST_SUCCESS] Successfully listed directory: user1
+[2026-01-07T03:47:19.922354800] [user1] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully.txt (29 bytes) to user1
+[2026-01-07T03:47:30.675695800] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:47:37.011366500] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:47:38.922004600] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Uploaded_Successfully.txt
+[2026-01-07T03:47:46.062105200] [user1] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:48:24.119356600] [admin] [LOGIN_SUCCESS] Authentication successful. Key: 532d1ec5-8722-41f8-90a8-f9f056b424b0
+[2026-01-07T03:48:27.137626300] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2026-01-07T03:48:58.938757300] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded Uploaded_Successfully_2.txt (46 bytes) to admin
+[2026-01-07T03:49:11.924210700] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Test.txt
+[2026-01-07T03:49:29.615142400] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: User1.txt
+[2026-01-07T03:50:12.957637400] [admin] [COMMAND_DOWNLOAD_SUCCESS] Downloaded file: Test.txt
+[2026-01-07T03:50:21.100284300] [admin] [COMMAND_DELETE_SUCCESS] Successfully deleted file: C:\Users\C-ROAD\OneDrive\Desktop\NetProgProj\ServerFiles\test\Test.txt
+[2026-01-07T03:50:24.221043800] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2026-01-07T03:51:45.144713900] [admin] [COMMAND_UPLOAD_SUCCESS] Uploaded Test.txt (27 bytes) to admin
+[2026-01-07T03:51:48.864676900] [admin] [COMMAND_LISTALL_SUCCESS] Successfully executed LISTALL.
+[2026-01-07T03:52:08.666298700] [admin] [COMMAND_DOWNLOAD_FAIL] File not found or forbidden: ..\user1\User1.txt
+[2026-01-07T03:52:15.604655500] [admin] [SESSION_LOGOUT] User logged out successfully. Connection closing.
